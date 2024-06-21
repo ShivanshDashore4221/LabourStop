@@ -1,0 +1,28 @@
+      .titletheme{
+           font-family: Sylfaen;
+           font-size: 100px;
+       }
+       .tabtheme{
+           font-family: Sylfaen;
+           font-size: 20px;
+           color: white;
+           text-transform: uppercase;
+           background-color:black;
+           color:white;
+           height:50px;
+           
+       }
+       .tdtheme:hover{
+            background-color: yellow;
+            color: brown;
+        }
+        body
+        {
+            background-color: #F7CC11;
+            background-size:100%;
+        }
+        .block{
+            width: 350px;
+            height: 350px;
+            float: left;
+        }
